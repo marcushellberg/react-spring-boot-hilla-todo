@@ -2,6 +2,8 @@
 
 A todo app implemented with React, Spring Boot and [Hilla](https://hilla.dev).
 
+Watch the tutorial on YouTube: https://youtu.be/nIWshZR_wtU
+
 ## Requirements
 
 - Java 11+
